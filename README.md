@@ -1,6 +1,6 @@
-# dice_roll_app
+# Dice roller app
 
-A new Flutter project.
+A basic Flutter project.
 
 ## Getting Started
 
